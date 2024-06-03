@@ -2,7 +2,7 @@
 ``` java
 
  class Car {
-  public final move()
+  public final void move()
 }
 
 ```
